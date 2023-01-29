@@ -1,7 +1,24 @@
 {
-    "projects": [{
-        "name": "sample",
-        "path": "./sources/contract.tact",
-        "output": "./sources/output"
-    }]
+    "projects": [
+        {
+            "name": "hashmap",
+            "path": "./src/contracts/hashmap/hashmap.tact",
+            "output": "./src/contracts/hashmap/output"
+        },
+        {
+            "name": "storage",
+            "path": "./src/contracts/storage/storage.tact",
+            "output": "./src/contracts/storage/output"
+        }, 
+        {
+            "name": "proxy",
+            "path": "./src/contracts/proxy/proxy.tact",
+            "output": "./src/contracts/proxy/output"
+        }, 
+        {
+            "name": "simple",
+            "path": "./src/contracts/simple/simple.tact",
+            "output": "./src/contracts/simple/output"
+        }
+   ]
 }
