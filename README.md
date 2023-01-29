@@ -1,4 +1,4 @@
-# TACT template project
+# Solveing [FunC contest](https://github.com/ton-blockchain/func-contest1) problems using tact language
 
 This project has ready to use TACT compiler, typescript + jest with [ton-emulator](https://github.com/ton-community/ton-emulator), example how to do tests.
 
